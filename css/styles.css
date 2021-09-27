@@ -23,6 +23,7 @@ body{
     margin-top: auto;
     margin-bottom: auto;
     width: 350px;
+
 }
 .imgdiv{
     display: flex;
@@ -181,10 +182,5 @@ a#newacc:hover{
 @media (min-width: 1430px){
     .container{
         width: 415px;
-    }
-}
-@media (min-width: 2500px){
-    .container{
-        width: 600px;
     }
 }
